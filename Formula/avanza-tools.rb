@@ -1,8 +1,8 @@
 class AvanzaTools < Formula
   desc "Command-line interface for Avanza"
   homepage "https://github.com/AnteWall/avanza-ts"
-  url "https://github.com/AnteWall/avanza-ts/releases/download/avanza-tools@1.0.2/avanza-tools-1.0.2.tgz"
-  sha256 "571c92d4866cb50c58b273659a5f8d8c4df8cffa04c49b0bdbe046459f8a0b66"
+  url "https://github.com/AnteWall/avanza-ts/releases/download/avanza-tools@1.1.0/avanza-tools-1.1.0.tgz"
+  sha256 "add9f7f953afcbb91ea47e3baecf6050d49a1581b9c17a8d47a2b1504ef3e955"
 
   depends_on "node"
 
