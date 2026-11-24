@@ -1,8 +1,8 @@
 class AvanzaTools < Formula
   desc "Command-line interface for Avanza"
-  homepage "https://github.com/AnteWall/avanza-ts"
-  url "https://github.com/AnteWall/avanza-ts/releases/download/avanza-tools@1.2.0/avanza-tools-1.2.0.tgz"
-  sha256 "61d13eb89868c4c4ade959aeef3484413ef15452520c09c53570d418f1439e7c"
+  homepage "https://github.com/AnteWall/kvant-tools"
+  url "https://github.com/AnteWall/kvant-tools/releases/download/avanza-tools@1.2.0/kvant-dev-avanza-cli-1.2.0.tgz"
+  sha256 "dbffb4a9d7ab29db7c3a5f77924c77adc421bd42265df1f98468ea901fe13d90"
 
   depends_on "node"
 
